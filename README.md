@@ -1,6 +1,9 @@
 # Tutorials
 Reference Material to serve as a quick reference to different topics within Data Science / A.I.
 
+**[Simulating Spurious Association](https://github.com/elisiojsj/Reference-Materials/blob/master/Spurious_association_simulation.ipynb)**
+Simple simulation of spurious association modeled with probabilistic programming.
+
 **[Probability Distributions](https://github.com/elisiojsj/Reference-Materials/blob/master/Probability_distributions.ipynb)**
 A quick guide, based on examples, on some important functions of various probability distributions.
 
