@@ -16,4 +16,6 @@ An example of usage of the seaborn and pandas libraries to plot distributions, b
 **[Pyspark Tutorial](https://github.com/elisiojsj/Reference-Materials/blob/master/Pyspark-dataframe-tutorial.ipynb)**
 Pyspark usage examples step-by-step for reference purposes.
 
+**[SQL Tutorial](https://github.com/elisiojsj/Reference-Materials/blob/master/SQL-tutorial.ipynb)**
+SQL usage examples step-by-step for reference purposes.
 
